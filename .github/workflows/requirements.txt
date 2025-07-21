@@ -1,0 +1,4 @@
+streamlit
+snscrape
+requests
+pandas
